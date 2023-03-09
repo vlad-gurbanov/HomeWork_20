@@ -1,4 +1,4 @@
-ё   ёfrom flask import Flask
+from flask import Flask
 from flask_restx import Api
 
 from config import Config
